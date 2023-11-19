@@ -1,4 +1,3 @@
-data.txt
+Data.txt
 
-dizin/*
-!dizin/deneme.txt
+Dizin/*
